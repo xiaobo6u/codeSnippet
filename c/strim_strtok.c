@@ -1,3 +1,6 @@
+/**
+分隔字符串，连续分隔符之间token视为NULL
+*/
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
